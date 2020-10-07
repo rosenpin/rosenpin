@@ -9,7 +9,7 @@ I make stuff sometimes
   </a>
 
   <a href="https://github.com/rosenpin">
-    <img alt="GitHub" src="https://img.shields.io/static/v1?label=Github&message=rosenpin&logo=GitHub&style=for-the-badge">
+    <img alt="GitHub" src="https://img.shields.io/github/followers/rosenpin?style=for-the-badge&label=Follow&logo=Github">
   </a>
 </p>
 
