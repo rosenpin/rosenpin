@@ -5,12 +5,12 @@ I make stuff sometimes
 
 <p>
   <a href="https://twitter.com/rosenpin">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rosenpin?style=for-the-badge">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rosenpin?style=for-the-badge&logo=Twitter&label=Follow">
   </a>
 
-  <a href="https://github.com/rosenpin">
-    <img alt="GitHub" src="https://img.shields.io/github/followers/rosenpin?style=for-the-badge&label=Follow&logo=Github">
-  </a>
+<a target="_blank" href="https://www.paypal.me/rosenfeldtomer/5usd" title="Donate using PayPal">
+  <img src="https://img.shields.io/badge/donate-$-lightgray?style=for-the-badge&logo=Paypal" />
+</a>
 </p>
 
 
