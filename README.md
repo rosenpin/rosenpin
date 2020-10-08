@@ -20,6 +20,3 @@ Many of my older projects have been moved to [@rosenpin-deprecated](https://gith
 <a href="https://github.com/rosenpin">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rosenpin&count_private=true" /> 
 </a>
-<a href="https://github.com/rosenpin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosenpin&exclude_repo=always-on-amoled,pokemon-go-enhancer,custom-analog-clock-view,dbz-battery-widget,fading-text-view" />
-</a>
