@@ -15,4 +15,4 @@ I make stuff sometimes
 
 
 
-Many of my older projects have been moved to [@rosenpin-deprecated](https://github.com/rosenpin-deprecated) so check it out if you're looking for something that once was here
+Many of my older projects have been moved to [@rosenpin-deprecated](https://github.com/rosenpin-deprecated) so check it out if you're looking for something that used to be here
