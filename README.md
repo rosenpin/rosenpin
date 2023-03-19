@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm rosenpin\
-I make stuff sometimes
+I make stuff
 
 
 <p>
@@ -15,4 +15,4 @@ I make stuff sometimes
 
 
 
-Many of my older projects have been moved to [@rosenpin-deprecated](https://github.com/rosenpin-deprecated) so check it out if you're looking for something that used to be here
+Many of my older projects moved to [@rosenpin-deprecated](https://github.com/rosenpin-deprecated) so check it out if you're looking for something that used to be here
